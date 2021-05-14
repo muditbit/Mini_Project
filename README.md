@@ -12,6 +12,8 @@ In this I have used images of DOG and CAT and classified them with the help of
 
 I used both classifier one by one whichever classifier provide better accuracy score that model will be used to predict the output
 
+As we made the directory within the code thus no image folder is being uploaded over the Repo.
+
 
 Here i have used "bing_image_downloader" for creating dataset
 
