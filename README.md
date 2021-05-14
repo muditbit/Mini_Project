@@ -1,4 +1,4 @@
-# img_classifier_SVM_or_XGBoost
+# Mini Project as part of Internship By SmartKnower
 
 As a part of my Internship Program by SmartKnower.
 
